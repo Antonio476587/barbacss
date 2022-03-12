@@ -1,4 +1,4 @@
-# Barba.js with the CSS Plugin
+# Barba.js with the CSS Plugin | Credist: Ihatetomatoes
 
 ![Barba.js and CSS](../assets/img_barba-js-css.png)
 
